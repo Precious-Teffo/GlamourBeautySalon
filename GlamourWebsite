@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Glamour Beauty Salon & Spa - Premier Beauty Services in Midrand</title>
     <meta name="description" content="Glamour Beauty Salon & Spa offers premium hair styling, nail care, beauty classes, and spa services in Glen Austin, Midrand. Book your appointment today!">
-    <meta name="keywords" content="beauty salon, hair styling, nail care, spa services, Midrand, Glen Austin, nail classes, makeup, bridal">
+    <meta name="keywords" content="beauty salon, 
+    hair styling, nail care, spa services, Midrand, Glen Austin, nail classes, makeup, bridal">
     
     <!-- Fonts - Using Inter for body and Playfair Display for headings for an elegant feel -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -1138,11 +1139,8 @@
                         <li>Nail Care & Art</li>
                         <li>Nail Technician Classes</li>
                         <li>Bridal & Makeup</li>
-                        <li>Skincare Treatments</li>
                         <li>Spa Therapy</li>
-                        <li>Waxing & Threading</li>
                         <li>Lash & Brow Enhancements</li>
-                        <li>Men's Elite Grooming</li>
                         <li>Kids' Hair & Nails</li>
                         <li>Special Event Styling</li>
                     </ul>
@@ -1150,14 +1148,14 @@
 
                 <div class="footer-section contact-footer">
                     <h3>Get in Touch</h3>
-                    <p><i class="fas fa-map-marker-alt"></i> Plot 54, Road 1, Glen Austin, Midrand, 1685</p>
-                    <p><i class="fas fa-phone-alt"></i> +27 11 000 0000</p>
-                    <p><i class="fas fa-envelope"></i> info@glamoursalon.co.za</p>
-                    <p><i class="far fa-clock"></i> Mon - Sat: 9 AM - 6 PM</p>
+                    
+                    <p><i class="fas fa-phone-alt"></i> +27 61 473 6830</p>
+                    <p><i class="fas fa-envelope"></i> mudheyipatrick@gmail.com.co.za</p>
+                    <p><i class="far fa-clock"></i> Mon - Sat: 9 AM - 7 PM</p>
                 </div>
             </div>
             <div class="footer-bottom">
-                &copy; 2025 Glamour Beauty Salon & Spa. All rights reserved.
+                &copy; 2025 Glamour Beauty Salon & Spa. All rights reserved.Developed by P Mokonyama
             </div>
         </div>
     </footer>
